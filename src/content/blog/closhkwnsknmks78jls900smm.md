@@ -112,7 +112,7 @@ YAML is very sensitive to indentation and formatting. Even a small error in inde
 ### Solution:
 
 1. Ensure consistent indentation throughout your YAML file. Typically, 2 spaces per indentation level is recommended.
-2. Validate your YAML syntax using an online YAML validator or a tool like `yamllint`.
+2. Validate your YAML syntax using an [online YAML validator](https://yamline.com/validator/) or a tool like `yamllint`.
 
 ## 5. Undefined Variables
 
